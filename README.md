@@ -3,7 +3,15 @@
 # 👋 Hey, I'm Sheikh Farid
 
 ### 🚀 Full-Stack Software Engineer | Backend Engineer | System Design Enthusiast
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=SheikhFarid99&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/SheikhFarid99?label=Followers&style=for-the-badge&color=0e75b6" />
+
+<img src="https://img.shields.io/github/stars/SheikhFarid99?label=Stars&style=for-the-badge&color=0e75b6" />
+
+</div>
 </div>
 
 
@@ -11,8 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me
-A passionate software engineer focused on building **scalable, high-performance, and production-ready applications**.
-I enjoy working across the entire software development lifecycle — from creating modern frontend experiences to designing robust backend systems, optimizing databases, and automating deployments.
+A passionate **Software Engineer** focused on building **scalable, high-performance, and production-ready applications**. I enjoy working across the entire software development lifecycle — from creating modern frontend experiences and designing robust backend systems to optimizing databases, building distributed architectures, and automating deployments. translate bangla
 
 - 🔭 Building scalable full-stack and backend applications
 - 🏗️ Interested in System Design & Distributed Systems
@@ -161,3 +168,4 @@ I’m passionate about designing systems that are **scalable, reliable, maintain
 
  - Data Structures & Algorithms
  - Object-Oriented Programming
+
