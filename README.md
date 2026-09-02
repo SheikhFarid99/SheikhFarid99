@@ -143,7 +143,6 @@ I’m passionate about designing systems that are **scalable, reliable, maintain
 - ✅ Unit Testing
 - 🔗 Integration Testing
 - 🔌 API Testing
-- 🧪 Automated Test Suites
 - 🔄 Regression Testing
 
 ---
