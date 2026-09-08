@@ -19,7 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me
-A passionate **Software Engineer** focused on building **scalable, high-performance, and production-ready applications**. I enjoy working across the entire software development lifecycle — from creating modern frontend experiences and designing robust backend systems to optimizing databases, building distributed architectures, and automating deployments. translate bangla
+A passionate **Software Engineer** focused on building **scalable, high-performance, and production-ready applications**. I enjoy working across the entire software development lifecycle — from creating modern frontend experiences and designing robust backend systems to optimizing databases, building distributed architectures, and automating deployments.
 
 - 🔭 Building scalable full-stack and backend applications
 - 🏗️ Interested in System Design & Distributed Systems
