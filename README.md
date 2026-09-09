@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sheikh Farid
 
-### 🚀 Full-Stack Web Developer | Backend Engineer | System Design Enthusiast
+### 🚀 Full Stack Software Engineer | Backend Engineer | System Design Enthusiast
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SheikhFarid99&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
