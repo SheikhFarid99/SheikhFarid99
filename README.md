@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sheikh Farid
 
-### 🚀 Full Stack Software Engineer | Backend Engineer | System Design Enthusiast
+### 🚀 Full Stack Software Engineer | Node.js Reatt.js
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SheikhFarid99&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -19,7 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me
-A passionate **Software Engineer** focused on building **scalable, high-performance, and production-ready applications**. I enjoy working across the entire software development lifecycle — from creating modern frontend experiences and designing robust backend systems to optimizing databases, building distributed architectures, and automating deployments.
+A passionate **Full Stack Software Engineer** focused on building **scalable, high-performance, and production-ready applications**. I enjoy working across the entire software development lifecycle — from creating modern frontend experiences and designing robust backend systems to optimizing databases, building distributed architectures, and automating deployments.
 
 - 🔭 Building scalable full-stack and backend applications
 - 🏗️ Interested in System Design & Distributed Systems
