@@ -78,14 +78,6 @@ A passionate **Full Stack Software Engineer** focused on building **scalable, hi
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- 🔄 Background Jobs & Queues — **BullMQ**
-- 📨 Event Streaming — **Apache Kafka**
-- ⚡ Distributed Job Processing
-- 🔁 Event-Driven Architecture
-- 🧩 Asynchronous Processing
-- 📈 Scalable Message Processing
-  
-
 ## 🗃️ ORM / ODM
 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -110,47 +102,12 @@ A passionate **Full Stack Software Engineer** focused on building **scalable, hi
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-### 🚀 Infrastructure Experience
-
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes
-- 🌐 Nginx & Reverse Proxy
-- 🖥️ Linux & VPS
-- 🔄 GitHub Actions & CI/CD
-- 🤖 Automated Deployment
-- ⚖️ Load Balancing
-- 📊 Monitoring & Observability
-- 🗂️ MinIO Object Storage
-
-
-# 🏗️ Architecture & System Design
-
-I’m passionate about designing systems that are **scalable, reliable, maintainable, and production-ready**.
-
-- 🧠 System Design
-- 🌐 Distributed Systems
-- 🧩 Microservices Architecture
-- 🔌 REST API Design
-- ⚡ WebSocket Architecture
-- 🚀 Scalable Backend Architecture
-- 📈 Performance Optimization
-- 🗄️ Database Architecture
-- ⚡ Caching Strategies
-- 🔄 Asynchronous Processing
-- 📊 Monitoring & Observability
-
-
 # 🧪 Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-6DB33F?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge)
-
-- ✅ Unit Testing
-- 🔗 Integration Testing
-- 🔌 API Testing
-- 🔄 Regression Testing
 
 ---
 
@@ -159,8 +116,6 @@ I’m passionate about designing systems that are **scalable, reliable, maintain
 ![React Native](https://img.shields.io/badge/React_Native-Basic-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron.js-Basic-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-- 📱 React Native — Basic
-- 🖥️ Electron.js — Basic
 
 ---
 
