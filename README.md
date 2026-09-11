@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sheikh Farid
 
-### 🚀 Full Stack Software Engineer | Node.js Reatt.js
+### 🚀 Full Stack Software Engineer | Node.js React.js
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SheikhFarid99&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
