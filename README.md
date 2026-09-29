@@ -24,9 +24,9 @@ A passionate **Full Stack Software Engineer** focused on building **scalable, hi
 - 🔭 Building scalable full-stack and backend applications
 - 🏗️ Interested in System Design & Distributed Systems
 - ⚡ Focused on performance, scalability, and clean architecture
-- 🧩 Experienced with REST APIs, WebSockets & Microservices
+- 🧩 Experienced with REST APIs, Web Sockets
 - 🗄️ Experienced with SQL/NoSQL databases and caching
-- 🐳 Experienced with Docker, Kubernetes & CI/CD
+- 🐳 Experienced with Docker & CI/CD
 - 🧪 Believe in testing and production-quality code
 - 🚀 Passionate about building reliable and maintainable software
 
@@ -41,7 +41,7 @@ C • C++ • JavaScript • TypeScript • Python
 React.js • Next.js • Context API • Redux • Redux Toolkit • TanStack Query • Fabric.js • Pixi.js • HTML5 • CSS3 • Tailwind CSS • SASS • Bootstrap • Material UI • Google Maps
 
 ## ⚙️ Backend
-Node.js • Express.js • NestJS • Django • WebSocket • Microservices
+Node.js • Express.js • NestJS • Django • Web Socket
 
 ### 📨 Messaging & Event-Driven Systems
 BullMQ • Apache Kafka • Redis
@@ -53,7 +53,7 @@ Prisma • Mongoose
 PostgreSQL • MongoDB • Redis
 
 ## ☁️ DevOps & Infrastructure
-Docker • Kubernetes • Nginx • Linux • VPS • GitHub Actions • CI/CD • MinIO • Monitoring & Observability
+Docker • Nginx • Linux • VPS • GitHub Actions • CI/CD • MinIO • Monitoring & Observability
 
 ## 🧪 Testing
 Jest • Unit Testing • Integration Testing • API Testing
