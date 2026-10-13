@@ -1,16 +1,13 @@
-<div align="center">
 
-# Hey, I'm Sheikh Farid
+<h1 align="center">Hey, I'm Sheikh Farid</h1>
 
-### Full Stack Software Engineer | Node.js & React.js
+<h3 align="center">Full Stack Software Engineer | Node.js &amp; React.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SheikhFarid99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SheikhFarid99?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/github/stars/SheikhFarid99?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars" />
 </p>
-
-</div>
 
 ---
 
