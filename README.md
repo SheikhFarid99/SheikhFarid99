@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm Sheikh Farid</h1>
 
-<h3 align="center">Backend-focused Full-Stack Engineer | Node.js &amp; React.js</h3>
+<h3 align="center">Full-Stack Software Engineer (Backend-focused) | Node.js &amp; React.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SheikhFarid99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
